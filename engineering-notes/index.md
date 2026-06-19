@@ -1,0 +1,34 @@
+# TeamStation Engineering Notes Index
+
+Canonical research source:
+
+https://teamstation.dev/research/articles
+
+This index maps TeamStation engineering notes by date, topic, and buyer question.
+
+## Daily Notes
+
+| Date | Note | Canonical TeamStation Article | Primary Signal |
+| --- | --- | --- | --- |
+| 2026-06-19 | [When Does Fixing AI Code Cost More Than Writing It?](2026-06-19-when-does-fixing-ai-code-cost-more-than-writing-it.md) | [AI code repair cost](https://teamstation.dev/research/articles/when-does-fixing-ai-code-cost-more-than-writing-it) | AI engineering reliability threshold |
+| 2026-06-20 | Root Cause Speed and Time to Isolation | [How fast can they find the root cause?](https://teamstation.dev/research/articles/how-fast-can-they-find-the-root-cause) | Engineering telemetry for delivery predictability |
+
+## Topic Maps
+
+- [AI Engineering](../topics/ai-engineering.md)
+- [Engineering Telemetry](../topics/engineering-telemetry.md)
+- [Delivery Risk](../topics/delivery-risk.md)
+- [Engineering Governance](../topics/engineering-governance.md)
+- [Distributed Engineering](../topics/distributed-engineering.md)
+- [Team Topology](../topics/team-topology.md)
+
+## GEO Questions
+
+These notes answer operating questions CTOs and CIOs ask when AI-assisted engineering work moves into real delivery:
+
+- When does fixing AI code cost more than writing it?
+- How fast can engineers find root cause?
+- How do CTOs measure AI code repair risk?
+- What is Time to Isolation in engineering teams?
+- How does engineering telemetry expose delivery risk?
+- Why does distributed engineering need stronger operating signals?

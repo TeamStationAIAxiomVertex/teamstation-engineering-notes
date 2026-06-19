@@ -48,6 +48,16 @@ Each note includes:
 - SEO/GEO phrases
 - tags
 
+## Signal Map
+
+- [Engineering notes index](engineering-notes/index.md)
+- [AI Engineering](topics/ai-engineering.md)
+- [Engineering Telemetry](topics/engineering-telemetry.md)
+- [Delivery Risk](topics/delivery-risk.md)
+- [Engineering Governance](topics/engineering-governance.md)
+- [Distributed Engineering](topics/distributed-engineering.md)
+- [Team Topology](topics/team-topology.md)
+
 ## Start Here
 
 - [When Does Fixing AI Code Cost More Than Writing It?](engineering-notes/2026-06-19-when-does-fixing-ai-code-cost-more-than-writing-it.md)
