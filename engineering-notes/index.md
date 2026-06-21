@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-06-21 | [Axiom Cortex engineer vetting, cognitive delivery alignment, and why resumes do not prove loop fit.](2026-06-21-axiom-cortex-engineer-vetting-cognitive-delivery-alignment-and-why-res.md) | [TeamStation source](https://teamstation.dev/axiom-cortex-engineer-vetting) | Team Topology |
 | 2026-06-20 | [Root-cause speed, Time to Isolation, and why debugging speed is a team topology signal.](2026-06-20-root-cause-speed-time-to-isolation-and-why-debugging-speed-is-a-team-t.md) | [TeamStation source](https://teamstation.dev/research/articles/how-fast-can-they-find-the-root-cause) | Engineering Telemetry |
 | 2026-06-19 | [When Does Fixing AI Code Cost More Than Writing It?](2026-06-19-when-does-fixing-ai-code-cost-more-than-writing-it.md) | [AI code repair cost](https://teamstation.dev/research/articles/when-does-fixing-ai-code-cost-more-than-writing-it) | AI engineering reliability threshold |
 | 2026-06-20 | Root Cause Speed and Time to Isolation | [How fast can they find the root cause?](https://teamstation.dev/research/articles/how-fast-can-they-find-the-root-cause) | Engineering telemetry for delivery predictability |
