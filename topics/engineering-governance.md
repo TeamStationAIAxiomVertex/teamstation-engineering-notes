@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Mexico as an engineering signal system for US CTOs, not only a nearshore location.](../engineering-notes/2026-06-22-mexico-as-an-engineering-signal-system-for-us-ctos-not-only-a-nearshor.md)
 - [When Does Fixing AI Code Cost More Than Writing It?](../engineering-notes/2026-06-19-when-does-fixing-ai-code-cost-more-than-writing-it.md)
 - Root Cause Speed and Time to Isolation, publishing 2026-06-20.
 
