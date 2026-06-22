@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Mexico as an engineering signal system for US CTOs, not only a nearshore location.](../engineering-notes/2026-06-22-mexico-as-an-engineering-signal-system-for-us-ctos-not-only-a-nearshor.md)
 - [Axiom Cortex engineer vetting, cognitive delivery alignment, and why resumes do not prove loop fit.](../engineering-notes/2026-06-21-axiom-cortex-engineer-vetting-cognitive-delivery-alignment-and-why-res.md)
 - [Root-cause speed, Time to Isolation, and why debugging speed is a team topology signal.](../engineering-notes/2026-06-20-root-cause-speed-time-to-isolation-and-why-debugging-speed-is-a-team-t.md)
 - [When Does Fixing AI Code Cost More Than Writing It?](../engineering-notes/2026-06-19-when-does-fixing-ai-code-cost-more-than-writing-it.md)
