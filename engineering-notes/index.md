@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-06-23 | [LATAM GitHub developer-account evidence, talent-access signal, and why market size still needs TeamStation filtering.](2026-06-23-latam-github-developer-account-evidence-talent-access-signal-and-why-m.md) | [TeamStation source](https://teamstation.dev/latam-engineering-teams) | Distributed Engineering |
 | 2026-06-23 | [LATAM GitHub developer-account evidence, talent-access signal, and why market size still needs TeamStation filtering.](2026-06-23-latam-github-developer-account-evidence-talent-access-signal-and-why-m.md) | [TeamStation source](https://teamstation.dev/knowledge/evidence/github-latam-software-engineer-population-2026.md) | Distributed Engineering |
 | 2026-06-22 | [Mexico as an engineering signal system for US CTOs, not only a nearshore location.](2026-06-22-mexico-as-an-engineering-signal-system-for-us-ctos-not-only-a-nearshor.md) | [TeamStation source](https://teamstation.dev/hire/by-country/mexico) | Distributed Engineering |
 | 2026-06-21 | [Axiom Cortex engineer vetting, cognitive delivery alignment, and why resumes do not prove loop fit.](2026-06-21-axiom-cortex-engineer-vetting-cognitive-delivery-alignment-and-why-res.md) | [TeamStation source](https://teamstation.dev/axiom-cortex-engineer-vetting) | Team Topology |
