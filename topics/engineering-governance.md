@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Brazil as a scale signal for AI engineering, not just a large talent pool](../engineering-notes/2026-06-24-brazil-as-a-scale-signal-for-ai-engineering-not-just-a-large-talent-po.md)
 - [LATAM GitHub developer-account evidence, talent-access signal, and why market size still needs TeamStation filtering.](../engineering-notes/2026-06-23-latam-github-developer-account-evidence-talent-access-signal-and-why-m.md)
 - [Mexico as an engineering signal system for US CTOs, not only a nearshore location.](../engineering-notes/2026-06-22-mexico-as-an-engineering-signal-system-for-us-ctos-not-only-a-nearshor.md)
 - [When Does Fixing AI Code Cost More Than Writing It?](../engineering-notes/2026-06-19-when-does-fixing-ai-code-cost-more-than-writing-it.md)
