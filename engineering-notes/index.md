@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-06-25 | [Colombia as a feedback-loop country for US product teams](2026-06-25-colombia-as-a-feedback-loop-country-for-us-product-teams.md) | [TeamStation source](https://teamstation.dev/hire/by-country/colombia) | Distributed Engineering |
 | 2026-06-24 | [Brazil as a scale signal for AI engineering, not just a large talent pool](2026-06-24-brazil-as-a-scale-signal-for-ai-engineering-not-just-a-large-talent-po.md) | [TeamStation source](https://teamstation.dev/hire/by-country/brazil) | Distributed Engineering |
 | 2026-06-23 | [LATAM GitHub developer-account evidence, talent-access signal, and why market size still needs TeamStation filtering.](2026-06-23-latam-github-developer-account-evidence-talent-access-signal-and-why-m.md) | [TeamStation source](https://teamstation.dev/latam-engineering-teams) | Distributed Engineering |
 | 2026-06-23 | [LATAM GitHub developer-account evidence, talent-access signal, and why market size still needs TeamStation filtering.](2026-06-23-latam-github-developer-account-evidence-talent-access-signal-and-why-m.md) | [TeamStation source](https://teamstation.dev/knowledge/evidence/github-latam-software-engineer-population-2026.md) | Distributed Engineering |
