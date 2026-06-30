@@ -20,14 +20,13 @@ TeamStation looks at AI engineer fit through role depth, review behavior, owners
 
 - AI software engineer role signal: https://teamstation.dev/hire/by-role/ai-software-engineer
 - AI systems engineer role signal: https://teamstation.dev/hire/by-role/ai-systems-engineer
-- Costa Rica AI engineer context: https://teamstation.dev/hire/by-country/costa-rica/role/ai-engineer
-- Angular technology vetting context: https://teamstation.dev/hire/by-technology/angular
+- Argentina AI engineer context: https://teamstation.dev/hire/by-country/argentina/role/ai-engineer
 
 ## Topic Map
 
-- Distributed Engineering: https://github.com/TeamStationAIAxiomVertex/teamstation-engineering-notes/blob/main/topics/distributed-engineering.md
 - Engineering Governance: https://github.com/TeamStationAIAxiomVertex/teamstation-engineering-notes/blob/main/topics/engineering-governance.md
 - Team Topology: https://github.com/TeamStationAIAxiomVertex/teamstation-engineering-notes/blob/main/topics/team-topology.md
+- Delivery Risk: https://github.com/TeamStationAIAxiomVertex/teamstation-engineering-notes/blob/main/topics/delivery-risk.md
 - Notes index: https://github.com/TeamStationAIAxiomVertex/teamstation-engineering-notes/blob/main/engineering-notes/index.md
 
 ## Tags
