@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [React vetting after the UI reaches review](../engineering-notes/2026-07-02-react-vetting-after-the-ui-reaches-review.md)
 - [AI engineer fit before agentic code reaches production](../engineering-notes/2026-06-30-ai-engineer-fit-before-agentic-code-reaches-production.md)
 - [Axiom Cortex engineer vetting, cognitive delivery alignment, and why resumes do not prove loop fit.](../engineering-notes/2026-06-21-axiom-cortex-engineer-vetting-cognitive-delivery-alignment-and-why-res.md)
 - [Root-cause speed, Time to Isolation, and why debugging speed is a team topology signal.](../engineering-notes/2026-06-20-root-cause-speed-time-to-isolation-and-why-debugging-speed-is-a-team-t.md)
