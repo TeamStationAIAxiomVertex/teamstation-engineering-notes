@@ -10,7 +10,6 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
-| 2026-07-02 | [React vetting after the UI reaches review](2026-07-02-react-vetting-after-the-ui-reaches-review.md) | [TeamStation source](https://teamstation.dev/hire/by-technology/react) | Frontend Engineering |
 | 2026-06-30 | [AI engineer fit before agentic code reaches production](2026-06-30-ai-engineer-fit-before-agentic-code-reaches-production.md) | [TeamStation source](https://teamstation.dev/hire/by-role/ai-engineer) | AI Engineering |
 | 2026-06-29 | [30 core agentic engineering concepts every developer should know](2026-06-29-30-core-agentic-engineering-concepts-every-developer-should-know.md) | [TeamStation source](https://teamstation.dev/research/articles/30-core-agentic-engineering-concepts-every-developer-should-know) | AI Engineering |
 | 2026-06-25 | [Colombia as a feedback-loop country for US product teams](2026-06-25-colombia-as-a-feedback-loop-country-for-us-product-teams.md) | [TeamStation source](https://teamstation.dev/hire/by-country/colombia) | Distributed Engineering |
