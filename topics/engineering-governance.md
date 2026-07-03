@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Nearshore AI engineer vetting before model work enters production loops](../engineering-notes/2026-07-05-nearshore-ai-engineer-vetting-before-model-work-enters-production-loops.md)
 - [AI engineer fit before agentic code reaches production](../engineering-notes/2026-06-30-ai-engineer-fit-before-agentic-code-reaches-production.md)
 - [Colombia as a feedback-loop country for US product teams](../engineering-notes/2026-06-25-colombia-as-a-feedback-loop-country-for-us-product-teams.md)
 - [Brazil as a scale signal for AI engineering, not just a large talent pool](../engineering-notes/2026-06-24-brazil-as-a-scale-signal-for-ai-engineering-not-just-a-large-talent-po.md)
