@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Nearshore AI engineer vetting before model work enters production loops](../engineering-notes/2026-07-05-nearshore-ai-engineer-vetting-before-model-work-enters-production-loops.md)
 - [30 core agentic engineering concepts every developer should know](../engineering-notes/2026-06-29-30-core-agentic-engineering-concepts-every-developer-should-know.md)
 - [When Does Fixing AI Code Cost More Than Writing It?](../engineering-notes/2026-06-19-when-does-fixing-ai-code-cost-more-than-writing-it.md)
 - Root Cause Speed and Time to Isolation, publishing 2026-06-20.
