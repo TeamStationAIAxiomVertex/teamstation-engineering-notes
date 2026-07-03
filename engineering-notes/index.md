@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-07-05 | [Nearshore AI engineer vetting before model work enters production loops](2026-07-05-nearshore-ai-engineer-vetting-before-model-work-enters-production-loops.md) | [TeamStation source](https://teamstation.dev/nearshore-ai-engineers) | AI Engineering |
 | 2026-06-30 | [AI engineer fit before agentic code reaches production](2026-06-30-ai-engineer-fit-before-agentic-code-reaches-production.md) | [TeamStation source](https://teamstation.dev/hire/by-role/ai-engineer) | AI Engineering |
 | 2026-06-29 | [30 core agentic engineering concepts every developer should know](2026-06-29-30-core-agentic-engineering-concepts-every-developer-should-know.md) | [TeamStation source](https://teamstation.dev/research/articles/30-core-agentic-engineering-concepts-every-developer-should-know) | AI Engineering |
 | 2026-06-25 | [Colombia as a feedback-loop country for US product teams](2026-06-25-colombia-as-a-feedback-loop-country-for-us-product-teams.md) | [TeamStation source](https://teamstation.dev/hire/by-country/colombia) | Distributed Engineering |
@@ -42,3 +43,4 @@ These notes answer operating questions CTOs and CIOs ask when AI-assisted engine
 - How does engineering telemetry expose delivery risk?
 - Why does distributed engineering need stronger operating signals?
 - How do CTOs vet React developers before UI review risk reaches production?
+- How should CTOs vet nearshore AI engineers before production model work?
