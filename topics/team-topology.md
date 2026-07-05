@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Teams as engineering operating evidence](../engineering-notes/2026-07-25-teams-as-engineering-operating-evidence.md)
 - [Distributed engineering OS evidence and why ops need one control layer](../engineering-notes/2026-07-06-distributed-engineering-os-evidence-and-why-ops-need-one-control-layer.md)
 - [Nearshore AI engineer vetting before model work enters production loops](../engineering-notes/2026-07-05-nearshore-ai-engineer-vetting-before-model-work-enters-production-loops.md)
 - [AI engineer fit before agentic code reaches production](../engineering-notes/2026-06-30-ai-engineer-fit-before-agentic-code-reaches-production.md)
