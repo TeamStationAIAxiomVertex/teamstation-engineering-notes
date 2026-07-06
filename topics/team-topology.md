@@ -14,9 +14,11 @@ https://teamstation.dev/research/articles
 - What does debugging speed reveal about team structure?
 - Why does Time to Isolation show topology fit?
 - How do distributed teams reduce handoff risk?
+- What are Sequential Probability Networks in engineering team design?
 
 ## Related Notes
 
+- [Sequential Probability Networks as engineering operating evidence](../engineering-notes/2026-07-26-sequential-probability-networks-as-engineering-operating-evidence.md)
 - [Teams as engineering operating evidence](../engineering-notes/2026-07-25-teams-as-engineering-operating-evidence.md)
 - [Distributed engineering OS evidence and why ops need one control layer](../engineering-notes/2026-07-06-distributed-engineering-os-evidence-and-why-ops-need-one-control-layer.md)
 - [Nearshore AI engineer vetting before model work enters production loops](../engineering-notes/2026-07-05-nearshore-ai-engineer-vetting-before-model-work-enters-production-loops.md)
