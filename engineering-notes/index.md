@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-07-27 | [AI Incentive Structure as engineering operating evidence](2026-07-27-ai-incentive-structure-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/teams/ai-incentive-structure/) | Team Topology |
 | 2026-07-26 | [Sequential Probability Networks as engineering operating evidence](2026-07-26-sequential-probability-networks-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/teams/sequential-probability-networks/) | Team Topology |
 | 2026-07-25 | [Teams as engineering operating evidence](2026-07-25-teams-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/teams/) | Team Topology |
 | 2026-07-06 | [Distributed engineering OS evidence and why ops need one control layer](2026-07-06-distributed-engineering-os-evidence-and-why-ops-need-one-control-layer.md) | [TeamStation source](https://teamstation.dev/distributed-engineering-os) | Distributed Engineering |
@@ -39,6 +40,8 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 These notes answer operating questions CTOs and CIOs ask when AI-assisted engineering work moves into real delivery:
 
+- What is AI incentive structure in engineering team design?
+- How should CTOs align AI-assisted teams before production work scales?
 - What are Sequential Probability Networks in engineering team design?
 - How should CTOs evaluate AI-assisted team topology before production work scales?
 - When does fixing AI code cost more than writing it?
