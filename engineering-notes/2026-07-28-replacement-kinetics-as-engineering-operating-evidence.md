@@ -6,13 +6,13 @@ https://engineering.teamstation.dev/teams/replacement-kinetics/
 
 ## Operating Signal
 
-Team design is not headcount math, bc incentives, replacement speed, and workflow shape real engineering output.
+Replacement Kinetics is about how fast the system recovers when the wrong fit, wrong role, or wrong incentive enters the team loop.
 
-The way I look at Replacement Kinetics is simple. If a team cannot explain the math of the work, the decision path, and the signal trail, then AI just makes the mess move faster. More code, more handoffs, more review noise, same weak control layer.
+Most leaders treat replacement like HR logistics. I see it more like latency in a production system. If the team waits weeks to see weak fit, then waits again to replace it, the real cost is not only the person. The real cost is stale work, broken trust, review drag, and decisions made with bad signal.
 
-This TeamStation engineering page is worth reading bc it shows the system view behind the operating model. It connects team incentives, replacement kinetics, wage economics, and agentic workflow design to the way CTOs and CIOs need to judge AI-assisted teams before work hits production.
+TeamStation uses the doctrine page to explain why the operating system has to measure movement, not vibes. Replacement speed, role clarity, incentive pressure, and telemetry tell a CTO whether the team can self-correct before AI adds more output to the same fragile lane.
 
-We apply this in distributed LATAM teams after the science is clear. Not as a nearshore pitch. As the place where the method has to survive real delivery, real time zones, real review, and real ownership.
+Read the page if you want to see why team design needs math around fit decay, recovery time, and signal quality. LATAM delivery is where we apply it, bc distributed work exposes slow replacement faster than a local status meeting ever will.
 
 ## Related TeamStation Sources
 
