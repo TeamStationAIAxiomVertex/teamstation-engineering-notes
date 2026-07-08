@@ -14,11 +14,13 @@ https://teamstation.dev/research/articles
 - What does debugging speed reveal about team structure?
 - Why does Time to Isolation show topology fit?
 - How do distributed teams reduce handoff risk?
+- What is replacement kinetics in engineering team design?
 - What is AI incentive structure in engineering team design?
 - What are Sequential Probability Networks in engineering team design?
 
 ## Related Notes
 
+- [Replacement Kinetics as engineering operating evidence](../engineering-notes/2026-07-28-replacement-kinetics-as-engineering-operating-evidence.md)
 - [AI Incentive Structure as engineering operating evidence](../engineering-notes/2026-07-27-ai-incentive-structure-as-engineering-operating-evidence.md)
 - [Sequential Probability Networks as engineering operating evidence](../engineering-notes/2026-07-26-sequential-probability-networks-as-engineering-operating-evidence.md)
 - [Teams as engineering operating evidence](../engineering-notes/2026-07-25-teams-as-engineering-operating-evidence.md)
