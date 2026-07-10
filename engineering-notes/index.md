@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-07-23 | [CIO governance for distributed engineering without vendor sprawl](2026-07-23-cio-governance-for-distributed-engineering-without-vendor-sprawl.md) | [TeamStation source](https://teamstation.dev/cio-nearshore-governance) | Engineering Governance |
 | 2026-07-28 | [Replacement Kinetics as engineering operating evidence](2026-07-28-replacement-kinetics-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/teams/replacement-kinetics/) | Team Topology |
 | 2026-07-27 | [AI Incentive Structure as engineering operating evidence](2026-07-27-ai-incentive-structure-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/teams/ai-incentive-structure/) | Team Topology |
 | 2026-07-26 | [Sequential Probability Networks as engineering operating evidence](2026-07-26-sequential-probability-networks-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/teams/sequential-probability-networks/) | Team Topology |
