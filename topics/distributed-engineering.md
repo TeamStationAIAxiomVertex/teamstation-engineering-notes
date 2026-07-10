@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [CIO governance for distributed engineering without vendor sprawl](../engineering-notes/2026-07-23-cio-governance-for-distributed-engineering-without-vendor-sprawl.md)
 - [Distributed engineering OS evidence and why ops need one control layer](../engineering-notes/2026-07-06-distributed-engineering-os-evidence-and-why-ops-need-one-control-layer.md)
 - [AI engineer fit before agentic code reaches production](../engineering-notes/2026-06-30-ai-engineer-fit-before-agentic-code-reaches-production.md)
 - [Colombia as a feedback-loop country for US product teams](../engineering-notes/2026-06-25-colombia-as-a-feedback-loop-country-for-us-product-teams.md)
