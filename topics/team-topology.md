@@ -20,6 +20,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [CIO governance for distributed engineering without vendor sprawl](../engineering-notes/2026-07-23-cio-governance-for-distributed-engineering-without-vendor-sprawl.md)
 - [Replacement Kinetics as engineering operating evidence](../engineering-notes/2026-07-28-replacement-kinetics-as-engineering-operating-evidence.md)
 - [AI Incentive Structure as engineering operating evidence](../engineering-notes/2026-07-27-ai-incentive-structure-as-engineering-operating-evidence.md)
 - [Sequential Probability Networks as engineering operating evidence](../engineering-notes/2026-07-26-sequential-probability-networks-as-engineering-operating-evidence.md)
