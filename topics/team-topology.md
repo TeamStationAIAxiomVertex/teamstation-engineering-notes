@@ -20,6 +20,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [QA automation as delivery telemetry, not test theater](../engineering-notes/2026-07-20-qa-automation-as-delivery-telemetry-not-test-theater.md)
 - [CIO governance for distributed engineering without vendor sprawl](../engineering-notes/2026-07-23-cio-governance-for-distributed-engineering-without-vendor-sprawl.md)
 - [Replacement Kinetics as engineering operating evidence](../engineering-notes/2026-07-28-replacement-kinetics-as-engineering-operating-evidence.md)
 - [AI Incentive Structure as engineering operating evidence](../engineering-notes/2026-07-27-ai-incentive-structure-as-engineering-operating-evidence.md)
