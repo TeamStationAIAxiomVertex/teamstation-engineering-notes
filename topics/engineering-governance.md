@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Nearshore control plane for visibility across people, devices, and delivery](../engineering-notes/2026-07-21-nearshore-control-plane-for-visibility-across-people-devices-and-deliv.md)
 - [QA automation as delivery telemetry, not test theater](../engineering-notes/2026-07-20-qa-automation-as-delivery-telemetry-not-test-theater.md)
 - [CIO governance for distributed engineering without vendor sprawl](../engineering-notes/2026-07-23-cio-governance-for-distributed-engineering-without-vendor-sprawl.md)
 - [Nearshore AI engineer vetting before model work enters production loops](../engineering-notes/2026-07-05-nearshore-ai-engineer-vetting-before-model-work-enters-production-loops.md)
