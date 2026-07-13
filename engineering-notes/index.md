@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-07-18 | [AI systems engineer vetting before model workflows touch production](2026-07-18-ai-systems-engineer-vetting-before-model-workflows-touch-production.md) | [TeamStation source](https://teamstation.dev/hire/by-role/ai-systems-engineer) | Engineering Governance |
 | 2026-07-21 | [Nearshore control plane for visibility across people, devices, and delivery](2026-07-21-nearshore-control-plane-for-visibility-across-people-devices-and-deliv.md) | [TeamStation source](https://teamstation.dev/nearshore-control-plane) | Delivery Risk |
 | 2026-07-20 | [QA automation as delivery telemetry, not test theater](2026-07-20-qa-automation-as-delivery-telemetry-not-test-theater.md) | [TeamStation source](https://teamstation.dev/hire/by-role/qa-automation-engineer) | Engineering Governance |
 | 2026-07-23 | [CIO governance for distributed engineering without vendor sprawl](2026-07-23-cio-governance-for-distributed-engineering-without-vendor-sprawl.md) | [TeamStation source](https://teamstation.dev/cio-nearshore-governance) | Engineering Governance |
