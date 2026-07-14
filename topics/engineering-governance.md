@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [MLOps vetting before models become production systems](../engineering-notes/2026-07-19-mlops-vetting-before-models-become-production-systems.md)
 - [AI systems engineer vetting before model workflows touch production](../engineering-notes/2026-07-18-ai-systems-engineer-vetting-before-model-workflows-touch-production.md)
 - [Nearshore control plane for visibility across people, devices, and delivery](../engineering-notes/2026-07-21-nearshore-control-plane-for-visibility-across-people-devices-and-deliv.md)
 - [QA automation as delivery telemetry, not test theater](../engineering-notes/2026-07-20-qa-automation-as-delivery-telemetry-not-test-theater.md)
