@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [MLOps vetting before models become production systems](../engineering-notes/2026-07-19-mlops-vetting-before-models-become-production-systems.md)
 - [AI systems engineer vetting before model workflows touch production](../engineering-notes/2026-07-18-ai-systems-engineer-vetting-before-model-workflows-touch-production.md)
 - [Nearshore control plane for visibility across people, devices, and delivery](../engineering-notes/2026-07-21-nearshore-control-plane-for-visibility-across-people-devices-and-deliv.md)
 - [Distributed engineering OS evidence and why ops need one control layer](../engineering-notes/2026-07-06-distributed-engineering-os-evidence-and-why-ops-need-one-control-layer.md)
