@@ -23,10 +23,10 @@ https://teamstation.dev/hire/by-technology/mlops
 
 ## Related TeamStation Research
 
-- [Hire Nearshore Angular Developers in LATAM](https://teamstation.dev/hire/by-technology/angular)
-- [Hire Nearshore AWS Developers in LATAM](https://teamstation.dev/hire/by-technology/aws)
-- [Hire Nearshore Engineering Leads in LATAM](https://teamstation.dev/hire/by-role/engineering-lead)
-- [Hire Nearshore MLOps Developers in Costa Rica](https://teamstation.dev/hire/by-country/costa-rica/mlops)
+- [MLOps Engineer](https://teamstation.dev/hire/by-role/mlops-engineer)
+- [MLOps Engineers in Costa Rica](https://teamstation.dev/hire/by-country/costa-rica/mlops)
+- [AI Systems Engineer](https://teamstation.dev/hire/by-role/ai-systems-engineer)
+- [Nearshore AI Engineers](https://teamstation.dev/nearshore-ai-engineers)
 
 ## Topic Map
 
