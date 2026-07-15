@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Nebula talent graph as signal before sourcing](../engineering-notes/2026-07-15-nebula-talent-graph-as-signal-before-sourcing.md)
 - [Colombia as a feedback-loop country for US product teams](../engineering-notes/2026-06-25-colombia-as-a-feedback-loop-country-for-us-product-teams.md)
 - [Brazil as a scale signal for AI engineering, not just a large talent pool](../engineering-notes/2026-06-24-brazil-as-a-scale-signal-for-ai-engineering-not-just-a-large-talent-po.md)
 - [Mexico as an engineering signal system for US CTOs, not only a nearshore location.](../engineering-notes/2026-06-22-mexico-as-an-engineering-signal-system-for-us-ctos-not-only-a-nearshor.md)
