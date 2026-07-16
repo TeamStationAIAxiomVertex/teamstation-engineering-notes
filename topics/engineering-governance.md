@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Axiom Cortex hallucination control and cognitive evidence](../engineering-notes/2026-07-16-axiom-cortex-hallucination-control-and-cognitive-evidence.md)
 - [MLOps vetting before models become production systems](../engineering-notes/2026-07-19-mlops-vetting-before-models-become-production-systems.md)
 - [AI systems engineer vetting before model workflows touch production](../engineering-notes/2026-07-18-ai-systems-engineer-vetting-before-model-workflows-touch-production.md)
 - [Nearshore control plane for visibility across people, devices, and delivery](../engineering-notes/2026-07-21-nearshore-control-plane-for-visibility-across-people-devices-and-deliv.md)
