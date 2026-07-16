@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-07-16 | [Axiom Cortex hallucination control and cognitive evidence](2026-07-16-axiom-cortex-hallucination-control-and-cognitive-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/decisions/axiom-cortex-engine/) | AI Engineering |
 | 2026-07-15 | [Nebula talent graph as signal before sourcing](2026-07-15-nebula-talent-graph-as-signal-before-sourcing.md) | [TeamStation source](https://teamstation.dev/nebula-ai-talent-graph) | AI Engineering |
 | 2026-07-19 | [MLOps vetting before models become production systems](2026-07-19-mlops-vetting-before-models-become-production-systems.md) | [TeamStation source](https://teamstation.dev/hire/by-technology/mlops) | Engineering Governance |
 | 2026-07-18 | [AI systems engineer vetting before model workflows touch production](2026-07-18-ai-systems-engineer-vetting-before-model-workflows-touch-production.md) | [TeamStation source](https://teamstation.dev/hire/by-role/ai-systems-engineer) | Engineering Governance |
