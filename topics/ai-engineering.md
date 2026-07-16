@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Axiom Cortex hallucination control and cognitive evidence](../engineering-notes/2026-07-16-axiom-cortex-hallucination-control-and-cognitive-evidence.md)
 - [Nebula talent graph as signal before sourcing](../engineering-notes/2026-07-15-nebula-talent-graph-as-signal-before-sourcing.md)
 - [QA automation as delivery telemetry, not test theater](../engineering-notes/2026-07-20-qa-automation-as-delivery-telemetry-not-test-theater.md)
 - [Nearshore AI engineer vetting before model work enters production loops](../engineering-notes/2026-07-05-nearshore-ai-engineer-vetting-before-model-work-enters-production-loops.md)
