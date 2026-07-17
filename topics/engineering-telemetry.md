@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Device ownership as engineering security, not procurement detail](../engineering-notes/2026-07-17-device-ownership-as-engineering-security-not-procurement-detail.md)
 - [Nebula talent graph as signal before sourcing](../engineering-notes/2026-07-15-nebula-talent-graph-as-signal-before-sourcing.md)
 - [Colombia as a feedback-loop country for US product teams](../engineering-notes/2026-06-25-colombia-as-a-feedback-loop-country-for-us-product-teams.md)
 - [Brazil as a scale signal for AI engineering, not just a large talent pool](../engineering-notes/2026-06-24-brazil-as-a-scale-signal-for-ai-engineering-not-just-a-large-talent-po.md)
