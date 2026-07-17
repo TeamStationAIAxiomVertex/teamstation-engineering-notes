@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Device ownership as engineering security, not procurement detail](../engineering-notes/2026-07-17-device-ownership-as-engineering-security-not-procurement-detail.md)
 - [Axiom Cortex hallucination control and cognitive evidence](../engineering-notes/2026-07-16-axiom-cortex-hallucination-control-and-cognitive-evidence.md)
 - [MLOps vetting before models become production systems](../engineering-notes/2026-07-19-mlops-vetting-before-models-become-production-systems.md)
 - [AI systems engineer vetting before model workflows touch production](../engineering-notes/2026-07-18-ai-systems-engineer-vetting-before-model-workflows-touch-production.md)
