@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-07-18 | [LLM engineer evidence before production trust](2026-07-18-llm-engineer-evidence-before-production-trust.md) | [TeamStation source](https://teamstation.dev/hire/by-role/llm-engineer) | AI Engineering |
 | 2026-07-17 | [Device ownership as engineering security, not procurement detail](2026-07-17-device-ownership-as-engineering-security-not-procurement-detail.md) | [TeamStation source](https://teamstation.dev/research/articles/device-ownership-is-a-security-primitive-not-a-procurement-detail) | Engineering Governance |
 | 2026-07-16 | [Axiom Cortex hallucination control and cognitive evidence](2026-07-16-axiom-cortex-hallucination-control-and-cognitive-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/decisions/axiom-cortex-engine/) | AI Engineering |
 | 2026-07-15 | [Nebula talent graph as signal before sourcing](2026-07-15-nebula-talent-graph-as-signal-before-sourcing.md) | [TeamStation source](https://teamstation.dev/nebula-ai-talent-graph) | AI Engineering |
