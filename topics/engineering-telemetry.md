@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [LLM engineer evidence before production trust](../engineering-notes/2026-07-18-llm-engineer-evidence-before-production-trust.md)
 - [Device ownership as engineering security, not procurement detail](../engineering-notes/2026-07-17-device-ownership-as-engineering-security-not-procurement-detail.md)
 - [Nebula talent graph as signal before sourcing](../engineering-notes/2026-07-15-nebula-talent-graph-as-signal-before-sourcing.md)
 - [Colombia as a feedback-loop country for US product teams](../engineering-notes/2026-06-25-colombia-as-a-feedback-loop-country-for-us-product-teams.md)
