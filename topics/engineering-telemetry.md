@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [AI governance engineering before agents enter production](../engineering-notes/2026-07-19-ai-governance-engineering-before-agents-enter-production.md)
 - [LLM engineer evidence before production trust](../engineering-notes/2026-07-18-llm-engineer-evidence-before-production-trust.md)
 - [Device ownership as engineering security, not procurement detail](../engineering-notes/2026-07-17-device-ownership-as-engineering-security-not-procurement-detail.md)
 - [Nebula talent graph as signal before sourcing](../engineering-notes/2026-07-15-nebula-talent-graph-as-signal-before-sourcing.md)
