@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Cognitive Execution Systems as one evidence path](../engineering-notes/2026-07-20-cognitive-execution-systems-as-one-evidence-path.md)
 - [AI governance engineering before agents enter production](../engineering-notes/2026-07-19-ai-governance-engineering-before-agents-enter-production.md)
 - [LLM engineer evidence before production trust](../engineering-notes/2026-07-18-llm-engineer-evidence-before-production-trust.md)
 - [Axiom Cortex hallucination control and cognitive evidence](../engineering-notes/2026-07-16-axiom-cortex-hallucination-control-and-cognitive-evidence.md)
