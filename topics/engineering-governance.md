@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [AI squad intelligence makes capacity assumptions visible](../engineering-notes/2026-07-22-ai-squad-intelligence-makes-capacity-assumptions-visible.md)
 - [AI Platform Engineer evidence for shared agent infrastructure](../engineering-notes/2026-07-21-ai-platform-engineer-evidence-for-shared-agent-infrastructure.md)
 - [Cognitive Execution Systems as one evidence path](../engineering-notes/2026-07-20-cognitive-execution-systems-as-one-evidence-path.md)
 - [AI governance engineering before agents enter production](../engineering-notes/2026-07-19-ai-governance-engineering-before-agents-enter-production.md)
