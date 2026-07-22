@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-07-22 | [AI squad intelligence makes capacity assumptions visible](2026-07-22-ai-squad-intelligence-makes-capacity-assumptions-visible.md) | [TeamStation source](https://teamstation.dev/research/articles/teamstation-ai-squad-intelligence-report) | AI Engineering |
 | 2026-07-21 | [AI Platform Engineer evidence for shared agent infrastructure](2026-07-21-ai-platform-engineer-evidence-for-shared-agent-infrastructure.md) | [TeamStation source](https://teamstation.dev/hire/by-role/ai-platform-engineer) | AI Engineering |
 | 2026-07-20 | [Cognitive Execution Systems as one evidence path](2026-07-20-cognitive-execution-systems-as-one-evidence-path.md) | [TeamStation source](https://teamstation.dev/research/cognitive-execution-systems) | AI Engineering |
 | 2026-07-19 | [AI governance engineering before agents enter production](2026-07-19-ai-governance-engineering-before-agents-enter-production.md) | [TeamStation source](https://teamstation.dev/hire/by-role/ai-governance-engineer) | AI Engineering |
