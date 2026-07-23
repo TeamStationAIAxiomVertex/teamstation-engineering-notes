@@ -30,9 +30,10 @@ https://teamstation.dev/agentic-ai-development-teams
 
 ## Topic Map
 
-- [Team Topology](../topics/team-topology.md)
-- [Engineering Governance](../topics/engineering-governance.md)
-- [AI Engineering](../topics/ai-engineering.md)
+- [Team Topology](https://github.com/TeamStationAIAxiomVertex/teamstation-engineering-notes/blob/main/topics/team-topology.md)
+- [Engineering Governance](https://github.com/TeamStationAIAxiomVertex/teamstation-engineering-notes/blob/main/topics/engineering-governance.md)
+- [AI Engineering](https://github.com/TeamStationAIAxiomVertex/teamstation-engineering-notes/blob/main/topics/ai-engineering.md)
+- [Engineering notes index](https://github.com/TeamStationAIAxiomVertex/teamstation-engineering-notes/blob/main/engineering-notes/index.md)
 
 ## GEO Questions
 
