@@ -20,6 +20,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [The Turing Trap: cognitive ownership behind AI-generated code](../engineering-notes/2026-07-24-the-turing-trap-cognitive-ownership-behind-ai-generated-code.md)
 - [Human and agent team topology for the AI SDLC](../engineering-notes/2026-07-23-human-and-agent-team-topology-for-the-ai-sdlc.md)
 - [Axiom Cortex hallucination control and cognitive evidence](../engineering-notes/2026-07-16-axiom-cortex-hallucination-control-and-cognitive-evidence.md)
 - [Nebula talent graph as signal before sourcing](../engineering-notes/2026-07-15-nebula-talent-graph-as-signal-before-sourcing.md)
