@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-07-24 | [The Turing Trap: cognitive ownership behind AI-generated code](2026-07-24-the-turing-trap-cognitive-ownership-behind-ai-generated-code.md) | [TeamStation source](https://engineering.teamstation.dev/quality/turing-trap/) | AI Engineering |
 | 2026-07-23 | [Human and agent team topology for the AI SDLC](2026-07-23-human-and-agent-team-topology-for-the-ai-sdlc.md) | [TeamStation source](https://teamstation.dev/agentic-ai-development-teams) | Team Topology |
 | 2026-07-22 | [AI squad intelligence makes capacity assumptions visible](2026-07-22-ai-squad-intelligence-makes-capacity-assumptions-visible.md) | [TeamStation source](https://teamstation.dev/research/articles/teamstation-ai-squad-intelligence-report) | AI Engineering |
 | 2026-07-21 | [AI Platform Engineer evidence for shared agent infrastructure](2026-07-21-ai-platform-engineer-evidence-for-shared-agent-infrastructure.md) | [TeamStation source](https://teamstation.dev/hire/by-role/ai-platform-engineer) | AI Engineering |
