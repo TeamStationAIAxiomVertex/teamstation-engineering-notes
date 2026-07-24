@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [The Turing Trap: cognitive ownership behind AI-generated code](../engineering-notes/2026-07-24-the-turing-trap-cognitive-ownership-behind-ai-generated-code.md)
 - [Human and agent team topology for the AI SDLC](../engineering-notes/2026-07-23-human-and-agent-team-topology-for-the-ai-sdlc.md)
 - [AI squad intelligence makes capacity assumptions visible](../engineering-notes/2026-07-22-ai-squad-intelligence-makes-capacity-assumptions-visible.md)
 - [AI Platform Engineer evidence for shared agent infrastructure](../engineering-notes/2026-07-21-ai-platform-engineer-evidence-for-shared-agent-infrastructure.md)
