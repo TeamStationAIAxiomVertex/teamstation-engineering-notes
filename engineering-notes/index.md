@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-07-26 | [Cloud judgment before production access](2026-07-26-cloud-judgment-before-production-access.md) | [TeamStation source](https://teamstation.dev/hire/by-role/cloud-engineer) | AI Engineering |
 | 2026-07-26 | [Mathematical Validation: separate language noise from technical signal](2026-07-26-mathematical-validation-separate-language-noise-from-technical-signal.md) | [TeamStation source](https://engineering.teamstation.dev/quality/mathematical-validation/) | AI Engineering |
 | 2026-07-24 | [The Turing Trap: cognitive ownership behind AI-generated code](2026-07-24-the-turing-trap-cognitive-ownership-behind-ai-generated-code.md) | [TeamStation source](https://engineering.teamstation.dev/quality/turing-trap/) | AI Engineering |
 | 2026-07-23 | [Human and agent team topology for the AI SDLC](2026-07-23-human-and-agent-team-topology-for-the-ai-sdlc.md) | [TeamStation source](https://teamstation.dev/agentic-ai-development-teams) | Team Topology |
