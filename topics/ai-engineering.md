@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Mathematical Validation: separate language noise from technical signal](../engineering-notes/2026-07-26-mathematical-validation-separate-language-noise-from-technical-signal.md)
 - [The Turing Trap: cognitive ownership behind AI-generated code](../engineering-notes/2026-07-24-the-turing-trap-cognitive-ownership-behind-ai-generated-code.md)
 - [Human and agent team topology for the AI SDLC](../engineering-notes/2026-07-23-human-and-agent-team-topology-for-the-ai-sdlc.md)
 - [AI squad intelligence makes capacity assumptions visible](../engineering-notes/2026-07-22-ai-squad-intelligence-makes-capacity-assumptions-visible.md)
