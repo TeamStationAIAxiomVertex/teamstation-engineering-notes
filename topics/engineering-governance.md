@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Zero Trust Scoring: A Pass Is Not Proof](../engineering-notes/2026-07-28-zero-trust-scoring-a-pass-is-not-proof.md)
 - [Cloud judgment before production access](../engineering-notes/2026-07-26-cloud-judgment-before-production-access.md)
 - [Mathematical Validation: separate language noise from technical signal](../engineering-notes/2026-07-26-mathematical-validation-separate-language-noise-from-technical-signal.md)
 - [The Turing Trap: cognitive ownership behind AI-generated code](../engineering-notes/2026-07-24-the-turing-trap-cognitive-ownership-behind-ai-generated-code.md)
