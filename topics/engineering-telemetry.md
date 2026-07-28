@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Zero Trust Scoring: A Pass Is Not Proof](../engineering-notes/2026-07-28-zero-trust-scoring-a-pass-is-not-proof.md)
 - [Code Inventory Axioms: When AI Output Becomes Queue Debt](../engineering-notes/2026-07-27-code-inventory-axioms-when-ai-output-becomes-queue-debt.md)
 - [Cloud judgment before production access](../engineering-notes/2026-07-26-cloud-judgment-before-production-access.md)
 - [AI squad intelligence makes capacity assumptions visible](../engineering-notes/2026-07-22-ai-squad-intelligence-makes-capacity-assumptions-visible.md)
