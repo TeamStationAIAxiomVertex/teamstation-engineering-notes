@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-07-29 | [Engineering Wage Economics: AI Changes Which Human Judgment Becomes Scarce](2026-07-29-engineering-wage-economics-ai-changes-which-human-judgment-becomes-sca.md) | [TeamStation source](https://engineering.teamstation.dev/teams/engineering-wage-economics/) | AI Engineering |
 | 2026-07-28 | [Zero Trust Scoring: A Pass Is Not Proof](2026-07-28-zero-trust-scoring-a-pass-is-not-proof.md) | [TeamStation source](https://engineering.teamstation.dev/decisions/zero-trust-scoring/) | AI Engineering |
 | 2026-07-27 | [Code Inventory Axioms: When AI Output Becomes Queue Debt](2026-07-27-code-inventory-axioms-when-ai-output-becomes-queue-debt.md) | [TeamStation source](https://engineering.teamstation.dev/work/code-inventory-axioms/) | AI Engineering |
 | 2026-07-26 | [Cloud judgment before production access](2026-07-26-cloud-judgment-before-production-access.md) | [TeamStation source](https://teamstation.dev/hire/by-role/cloud-engineer) | AI Engineering |
