@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Engineering Wage Economics: AI Changes Which Human Judgment Becomes Scarce](../engineering-notes/2026-07-29-engineering-wage-economics-ai-changes-which-human-judgment-becomes-sca.md)
 - [Code Inventory Axioms: When AI Output Becomes Queue Debt](../engineering-notes/2026-07-27-code-inventory-axioms-when-ai-output-becomes-queue-debt.md)
 - [MLOps vetting before models become production systems](../engineering-notes/2026-07-19-mlops-vetting-before-models-become-production-systems.md)
 - [AI systems engineer vetting before model workflows touch production](../engineering-notes/2026-07-18-ai-systems-engineer-vetting-before-model-workflows-touch-production.md)
