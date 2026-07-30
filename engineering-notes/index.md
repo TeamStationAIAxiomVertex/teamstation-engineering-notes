@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-07-30 | [Managerial Directive as engineering operating evidence](2026-07-30-managerial-directive-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/teams/managerial-directive/) | AI Engineering |
 | 2026-07-29 | [Engineering Wage Economics: AI Changes Which Human Judgment Becomes Scarce](2026-07-29-engineering-wage-economics-ai-changes-which-human-judgment-becomes-sca.md) | [TeamStation source](https://engineering.teamstation.dev/teams/engineering-wage-economics/) | AI Engineering |
 | 2026-07-28 | [Zero Trust Scoring: A Pass Is Not Proof](2026-07-28-zero-trust-scoring-a-pass-is-not-proof.md) | [TeamStation source](https://engineering.teamstation.dev/decisions/zero-trust-scoring/) | AI Engineering |
 | 2026-07-27 | [Code Inventory Axioms: When AI Output Becomes Queue Debt](2026-07-27-code-inventory-axioms-when-ai-output-becomes-queue-debt.md) | [TeamStation source](https://engineering.teamstation.dev/work/code-inventory-axioms/) | AI Engineering |
