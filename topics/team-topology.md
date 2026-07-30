@@ -20,6 +20,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Managerial Directive as engineering operating evidence](../engineering-notes/2026-07-30-managerial-directive-as-engineering-operating-evidence.md)
 - [Engineering Wage Economics: AI Changes Which Human Judgment Becomes Scarce](../engineering-notes/2026-07-29-engineering-wage-economics-ai-changes-which-human-judgment-becomes-sca.md)
 - [Mathematical Validation: separate language noise from technical signal](../engineering-notes/2026-07-26-mathematical-validation-separate-language-noise-from-technical-signal.md)
 - [The Turing Trap: cognitive ownership behind AI-generated code](../engineering-notes/2026-07-24-the-turing-trap-cognitive-ownership-behind-ai-generated-code.md)
