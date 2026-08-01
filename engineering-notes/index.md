@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-08-01 | [Mathematical Axioms as engineering operating evidence](2026-08-01-mathematical-axioms-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/teams/mathematical-axioms/) | Delivery Risk |
 | 2026-07-31 | [Agentic Development Workflows as engineering operating evidence](2026-07-31-agentic-development-workflows-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/teams/agentic-development-workflows/) | AI Engineering |
 | 2026-07-30 | [Managerial Directive as engineering operating evidence](2026-07-30-managerial-directive-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/teams/managerial-directive/) | AI Engineering |
 | 2026-07-29 | [Engineering Wage Economics: AI Changes Which Human Judgment Becomes Scarce](2026-07-29-engineering-wage-economics-ai-changes-which-human-judgment-becomes-sca.md) | [TeamStation source](https://engineering.teamstation.dev/teams/engineering-wage-economics/) | AI Engineering |
