@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Work as engineering operating evidence](../engineering-notes/2026-08-02-work-as-engineering-operating-evidence.md)
 - [Mathematical Axioms as engineering operating evidence](../engineering-notes/2026-08-01-mathematical-axioms-as-engineering-operating-evidence.md)
 - [Engineering Wage Economics: AI Changes Which Human Judgment Becomes Scarce](../engineering-notes/2026-07-29-engineering-wage-economics-ai-changes-which-human-judgment-becomes-sca.md)
 - [Code Inventory Axioms: When AI Output Becomes Queue Debt](../engineering-notes/2026-07-27-code-inventory-axioms-when-ai-output-becomes-queue-debt.md)
