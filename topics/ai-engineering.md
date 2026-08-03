@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Queueing Kinetics as engineering operating evidence](../engineering-notes/2026-08-04-queueing-kinetics-as-engineering-operating-evidence.md)
 - [Work as engineering operating evidence](../engineering-notes/2026-08-02-work-as-engineering-operating-evidence.md)
 - [Agentic Development Workflows as engineering operating evidence](../engineering-notes/2026-07-31-agentic-development-workflows-as-engineering-operating-evidence.md)
 - [Managerial Directive as engineering operating evidence](../engineering-notes/2026-07-30-managerial-directive-as-engineering-operating-evidence.md)
