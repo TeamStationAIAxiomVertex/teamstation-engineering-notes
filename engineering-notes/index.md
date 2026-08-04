@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-08-05 | [Cost Of Delay Economics as engineering operating evidence](2026-08-05-cost-of-delay-economics-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/work/cost-of-delay-economics/) | Delivery Risk |
 | 2026-08-04 | [Queueing Kinetics as engineering operating evidence](2026-08-04-queueing-kinetics-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/work/queueing-kinetics/) | Engineering Telemetry |
 | 2026-08-02 | [Work as engineering operating evidence](2026-08-02-work-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/work/) | AI Engineering |
 | 2026-08-01 | [Mathematical Axioms as engineering operating evidence](2026-08-01-mathematical-axioms-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/teams/mathematical-axioms/) | Delivery Risk |
