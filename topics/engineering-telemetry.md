@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [WIP Regulation as engineering operating evidence](../engineering-notes/2026-08-06-wip-regulation-as-engineering-operating-evidence.md)
 - [Queueing Kinetics as engineering operating evidence](../engineering-notes/2026-08-04-queueing-kinetics-as-engineering-operating-evidence.md)
 - [Work as engineering operating evidence](../engineering-notes/2026-08-02-work-as-engineering-operating-evidence.md)
 - [Zero Trust Scoring: A Pass Is Not Proof](../engineering-notes/2026-07-28-zero-trust-scoring-a-pass-is-not-proof.md)
