@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [WIP Regulation as engineering operating evidence](../engineering-notes/2026-08-06-wip-regulation-as-engineering-operating-evidence.md)
 - [Cost Of Delay Economics as engineering operating evidence](../engineering-notes/2026-08-05-cost-of-delay-economics-as-engineering-operating-evidence.md)
 - [Queueing Kinetics as engineering operating evidence](../engineering-notes/2026-08-04-queueing-kinetics-as-engineering-operating-evidence.md)
 - [Work as engineering operating evidence](../engineering-notes/2026-08-02-work-as-engineering-operating-evidence.md)
