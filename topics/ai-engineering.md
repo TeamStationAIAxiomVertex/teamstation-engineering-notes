@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Vector Space Axioms as engineering operating evidence](../engineering-notes/2026-08-09-vector-space-axioms-as-engineering-operating-evidence.md)
 - [Decisions as engineering operating evidence](../engineering-notes/2026-08-07-decisions-as-engineering-operating-evidence.md)
 - [WIP Regulation as engineering operating evidence](../engineering-notes/2026-08-06-wip-regulation-as-engineering-operating-evidence.md)
 - [Queueing Kinetics as engineering operating evidence](../engineering-notes/2026-08-04-queueing-kinetics-as-engineering-operating-evidence.md)
