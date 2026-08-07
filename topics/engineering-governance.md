@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Vector Space Axioms as engineering operating evidence](../engineering-notes/2026-08-09-vector-space-axioms-as-engineering-operating-evidence.md)
 - [Mathematical Axioms as engineering operating evidence](../engineering-notes/2026-08-01-mathematical-axioms-as-engineering-operating-evidence.md)
 - [Managerial Directive as engineering operating evidence](../engineering-notes/2026-07-30-managerial-directive-as-engineering-operating-evidence.md)
 - [Zero Trust Scoring: A Pass Is Not Proof](../engineering-notes/2026-07-28-zero-trust-scoring-a-pass-is-not-proof.md)
