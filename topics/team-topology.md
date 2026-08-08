@@ -20,6 +20,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Semantic Decision Kinetics as engineering operating evidence](../engineering-notes/2026-08-10-semantic-decision-kinetics-as-engineering-operating-evidence.md)
 - [Vector Space Axioms as engineering operating evidence](../engineering-notes/2026-08-09-vector-space-axioms-as-engineering-operating-evidence.md)
 - [Mathematical Axioms as engineering operating evidence](../engineering-notes/2026-08-01-mathematical-axioms-as-engineering-operating-evidence.md)
 - [Agentic Development Workflows as engineering operating evidence](../engineering-notes/2026-07-31-agentic-development-workflows-as-engineering-operating-evidence.md)
