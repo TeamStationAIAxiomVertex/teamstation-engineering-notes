@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-08-10 | [Semantic Decision Kinetics as engineering operating evidence](2026-08-10-semantic-decision-kinetics-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/decisions/semantic-decision-kinetics/) | AI Engineering |
 | 2026-08-09 | [Vector Space Axioms as engineering operating evidence](2026-08-09-vector-space-axioms-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/decisions/vector-space-axioms/) | AI Engineering |
 | 2026-08-07 | [Decisions as engineering operating evidence](2026-08-07-decisions-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/decisions/) | Engineering Telemetry |
 | 2026-08-06 | [WIP Regulation as engineering operating evidence](2026-08-06-wip-regulation-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/work/wip-regulation/) | Engineering Telemetry |
