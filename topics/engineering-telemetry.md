@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Agency Theory Economics as engineering operating evidence](../engineering-notes/2026-08-11-agency-theory-economics-as-engineering-operating-evidence.md)
 - [Mutation Testing for AI-Generated Code](../engineering-notes/2026-08-10-mutation-testing-for-ai-generated-code.md)
 - [Decisions as engineering operating evidence](../engineering-notes/2026-08-07-decisions-as-engineering-operating-evidence.md)
 - [WIP Regulation as engineering operating evidence](../engineering-notes/2026-08-06-wip-regulation-as-engineering-operating-evidence.md)
