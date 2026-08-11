@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-08-11 | [Agency Theory Economics as engineering operating evidence](2026-08-11-agency-theory-economics-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/decisions/agency-theory-economics/) | Engineering Telemetry |
 | 2026-08-10 | [Mutation Testing for AI-Generated Code](2026-08-10-mutation-testing-for-ai-generated-code.md) | [TeamStation source](https://teamstation.dev/research/articles/mutation-testing-ai-generated-code) | AI Engineering |
 | 2026-08-09 | [Cognitive Fidelity as engineering operating evidence](2026-08-09-cognitive-fidelity-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/quality/cognitive-fidelity/) | AI Engineering |
 | 2026-08-10 | [Semantic Decision Kinetics as engineering operating evidence](2026-08-10-semantic-decision-kinetics-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/decisions/semantic-decision-kinetics/) | AI Engineering |
