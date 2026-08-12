@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Zero Trust Scoring as engineering operating evidence](../engineering-notes/2026-08-12-zero-trust-scoring-as-engineering-operating-evidence.md)
 - [Agency Theory Economics as engineering operating evidence](../engineering-notes/2026-08-11-agency-theory-economics-as-engineering-operating-evidence.md)
 - [Mutation Testing for AI-Generated Code](../engineering-notes/2026-08-10-mutation-testing-for-ai-generated-code.md)
 - [Cognitive Fidelity as engineering operating evidence](../engineering-notes/2026-08-09-cognitive-fidelity-as-engineering-operating-evidence.md)
