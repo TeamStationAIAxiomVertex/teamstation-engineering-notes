@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-08-13 | [Quality as engineering operating evidence](2026-08-13-quality-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/quality/) | AI Engineering |
 | 2026-08-12 | [Zero Trust Scoring as engineering operating evidence](2026-08-12-zero-trust-scoring-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/decisions/zero-trust-scoring/) | AI Engineering |
 | 2026-08-11 | [Agency Theory Economics as engineering operating evidence](2026-08-11-agency-theory-economics-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/decisions/agency-theory-economics/) | Engineering Telemetry |
 | 2026-08-10 | [Mutation Testing for AI-Generated Code](2026-08-10-mutation-testing-for-ai-generated-code.md) | [TeamStation source](https://teamstation.dev/research/articles/mutation-testing-ai-generated-code) | AI Engineering |
