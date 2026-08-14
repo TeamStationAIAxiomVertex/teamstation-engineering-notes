@@ -20,6 +20,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Human-task-agent alignment needs a stress test](../engineering-notes/2026-08-14-human-task-agent-alignment-needs-a-stress-test.md)
 - [Cognitive Fidelity as engineering operating evidence](../engineering-notes/2026-08-09-cognitive-fidelity-as-engineering-operating-evidence.md)
 - [Semantic Decision Kinetics as engineering operating evidence](../engineering-notes/2026-08-10-semantic-decision-kinetics-as-engineering-operating-evidence.md)
 - [Vector Space Axioms as engineering operating evidence](../engineering-notes/2026-08-09-vector-space-axioms-as-engineering-operating-evidence.md)
