@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-08-15 | [Constraint shift testing as evidence of engineering judgment](2026-08-15-constraint-shift-testing-as-evidence-of-engineering-judgment.md) | [TeamStation source](https://teamstation.dev/research/articles/constraint-shift-test-engineering-judgment) | AI Engineering |
 | 2026-08-14 | [Human-task-agent alignment needs a stress test](2026-08-14-human-task-agent-alignment-needs-a-stress-test.md) | [TeamStation source](https://teamstation.dev/research/articles/human-task-agent-alignment-stress-test) | Team Topology |
 | 2026-08-13 | [Quality as engineering operating evidence](2026-08-13-quality-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/quality/) | AI Engineering |
 | 2026-08-12 | [Zero Trust Scoring as engineering operating evidence](2026-08-12-zero-trust-scoring-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/decisions/zero-trust-scoring/) | AI Engineering |
