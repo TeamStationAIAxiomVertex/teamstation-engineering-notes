@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Constraint shift testing as evidence of engineering judgment](../engineering-notes/2026-08-15-constraint-shift-testing-as-evidence-of-engineering-judgment.md)
 - [Quality as engineering operating evidence](../engineering-notes/2026-08-13-quality-as-engineering-operating-evidence.md)
 - [Zero Trust Scoring as engineering operating evidence](../engineering-notes/2026-08-12-zero-trust-scoring-as-engineering-operating-evidence.md)
 - [Agency Theory Economics as engineering operating evidence](../engineering-notes/2026-08-11-agency-theory-economics-as-engineering-operating-evidence.md)
