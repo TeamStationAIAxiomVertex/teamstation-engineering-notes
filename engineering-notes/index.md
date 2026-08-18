@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-08-18 | [Blameless Quality Protocols as engineering operating evidence](2026-08-18-blameless-quality-protocols-as-engineering-operating-evidence.md) | [TeamStation source](https://teamstation.dev/research/articles/blameless-incident-review-data-integrity-protocol) | Engineering Governance |
 | 2026-08-17 | [Quality Economics as engineering operating evidence](2026-08-17-quality-economics-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/quality/quality-economics/) | Engineering Telemetry |
 | 2026-08-16 | [Engineering Capacity OS as operating evidence](2026-08-16-engineering-capacity-os-as-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/research/engineering-operating-system/) | Engineering Telemetry |
 | 2026-08-15 | [Constraint shift testing as evidence of engineering judgment](2026-08-15-constraint-shift-testing-as-evidence-of-engineering-judgment.md) | [TeamStation source](https://teamstation.dev/research/articles/constraint-shift-test-engineering-judgment) | AI Engineering |
