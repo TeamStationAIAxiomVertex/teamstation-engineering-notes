@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Blameless Quality Protocols as engineering operating evidence](../engineering-notes/2026-08-18-blameless-quality-protocols-as-engineering-operating-evidence.md)
 - [Engineering Capacity OS as operating evidence](../engineering-notes/2026-08-16-engineering-capacity-os-as-operating-evidence.md)
 - [Constraint shift testing as evidence of engineering judgment](../engineering-notes/2026-08-15-constraint-shift-testing-as-evidence-of-engineering-judgment.md)
 - [Quality as engineering operating evidence](../engineering-notes/2026-08-13-quality-as-engineering-operating-evidence.md)
