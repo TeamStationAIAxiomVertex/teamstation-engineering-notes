@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Integration boundaries as engineering operating evidence](../engineering-notes/2026-08-19-integration-boundaries-as-engineering-operating-evidence.md)
 - [Quality Economics as engineering operating evidence](../engineering-notes/2026-08-17-quality-economics-as-engineering-operating-evidence.md)
 - [Engineering Capacity OS as operating evidence](../engineering-notes/2026-08-16-engineering-capacity-os-as-operating-evidence.md)
 - [Quality as engineering operating evidence](../engineering-notes/2026-08-13-quality-as-engineering-operating-evidence.md)
