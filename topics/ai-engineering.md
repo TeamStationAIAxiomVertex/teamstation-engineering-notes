@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Dependency Density as engineering operating evidence](../engineering-notes/2026-08-21-dependency-density-as-engineering-operating-evidence.md)
 - [Quality Economics as engineering operating evidence](../engineering-notes/2026-08-17-quality-economics-as-engineering-operating-evidence.md)
 - [Constraint shift testing as evidence of engineering judgment](../engineering-notes/2026-08-15-constraint-shift-testing-as-evidence-of-engineering-judgment.md)
 - [Quality as engineering operating evidence](../engineering-notes/2026-08-13-quality-as-engineering-operating-evidence.md)
