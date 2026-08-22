@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Asynchronous Amplifier as engineering operating evidence](../engineering-notes/2026-08-22-asynchronous-amplifier-as-engineering-operating-evidence.md)
 - [Device ownership as engineering security, not procurement detail](../engineering-notes/2026-07-17-device-ownership-as-engineering-security-not-procurement-detail.md)
 - [MLOps vetting before models become production systems](../engineering-notes/2026-07-19-mlops-vetting-before-models-become-production-systems.md)
 - [Nearshore control plane for visibility across people, devices, and delivery](../engineering-notes/2026-07-21-nearshore-control-plane-for-visibility-across-people-devices-and-deliv.md)
