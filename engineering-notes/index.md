@@ -10,6 +10,7 @@ This index maps TeamStation engineering notes by date, topic, and buyer question
 
 | Date | Note | Canonical TeamStation Article | Primary Signal |
 | --- | --- | --- | --- |
+| 2026-08-24 | [Change as engineering operating evidence](2026-08-24-change-as-engineering-operating-evidence.md) | [TeamStation source](https://engineering.teamstation.dev/change/) | Engineering Telemetry |
 | 2026-08-22 | [Asynchronous Amplifier as engineering operating evidence](2026-08-22-asynchronous-amplifier-as-engineering-operating-evidence.md) | [TeamStation source](https://teamstation.dev/research/articles/the-physics-of-the-architectural-communication-standard) | Distributed Engineering |
 | 2026-08-21 | [Dependency Density as engineering operating evidence](2026-08-21-dependency-density-as-engineering-operating-evidence.md) | [TeamStation source](https://teamstation.dev/research/articles/dependency-density-measure-hidden-waiting) | Engineering Telemetry |
 | 2026-08-19 | [Integration boundaries as engineering operating evidence](2026-08-19-integration-boundaries-as-engineering-operating-evidence.md) | [TeamStation source](https://teamstation.dev/research/articles/why-is-integration-hell) | Team Topology |
