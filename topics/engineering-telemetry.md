@@ -15,6 +15,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Change as engineering operating evidence](../engineering-notes/2026-08-24-change-as-engineering-operating-evidence.md)
 - [Asynchronous Amplifier as engineering operating evidence](../engineering-notes/2026-08-22-asynchronous-amplifier-as-engineering-operating-evidence.md)
 - [Dependency Density as engineering operating evidence](../engineering-notes/2026-08-21-dependency-density-as-engineering-operating-evidence.md)
 - [Integration boundaries as engineering operating evidence](../engineering-notes/2026-08-19-integration-boundaries-as-engineering-operating-evidence.md)
