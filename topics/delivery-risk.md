@@ -17,6 +17,7 @@ https://teamstation.dev/research/articles
 
 ## Related Notes
 
+- [Change as engineering operating evidence](../engineering-notes/2026-08-24-change-as-engineering-operating-evidence.md)
 - [Dependency Density as engineering operating evidence](../engineering-notes/2026-08-21-dependency-density-as-engineering-operating-evidence.md)
 - [Quality Economics as engineering operating evidence](../engineering-notes/2026-08-17-quality-economics-as-engineering-operating-evidence.md)
 - [Agency Theory Economics as engineering operating evidence](../engineering-notes/2026-08-11-agency-theory-economics-as-engineering-operating-evidence.md)
